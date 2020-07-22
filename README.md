@@ -6,6 +6,10 @@ I'm serebit (also known as Campbell, or "Ginger"), and I build software that I h
 
 Because I prefer GitLab, but want to push to GitHub as well for discoverability purposes.
 
+### How can I be contacted?
+
+I tend to avoid making my email address public to reduce spam. If you'd like to contact me by email, use the contact form on my website [here](https://serebit.com/contact/). It'll send an email to my main inbox, and I'll respond as soon as I'm able.
+
 ### What have I built?
 
 #### Wraith Master (written in Kotlin/Native)
