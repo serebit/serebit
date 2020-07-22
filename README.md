@@ -2,11 +2,11 @@
 
 I'm serebit (also known as Campbell, or "Ginger"), and I build software that I hope can be useful to others.
 
-### Why are all your repositories mirrors?
+### Why are all my repositories mirrors?
 
 Because I prefer GitLab, but want to push to GitHub as well for discoverability purposes.
 
-### What have you built?
+### What have I built?
 
 #### Wraith Master (written in Kotlin/Native)
 
