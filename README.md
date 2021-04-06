@@ -1,6 +1,6 @@
 ### Who am I?
 
-I'm serebit (also known as Campbell, or "Ginger"), and I build software that I hope can be useful to others.
+I'm Campbell (also known as serebit), and I build software that I hope can be useful to others.
 
 ### Why are all my repositories mirrors?
 
